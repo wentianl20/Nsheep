@@ -9,7 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "ant-design-vue": "^3.2.13",
+    "@headlessui/vue": "^1.7.3",
+    "@heroicons/vue": "^2.0.12",
     "lodash": "^4.17.21",
     "pinia-plugin-persistedstate": "^2.3.0",
     "vue": "^3.2.37",

@@ -13,7 +13,7 @@
 
 <style scoped>
   #app {
-    background: url("/src/assets/bg.jpeg");
+    background-color: lightseagreen;
     background-size: 100% 100%;
   }
 </style>

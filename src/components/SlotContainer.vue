@@ -22,7 +22,7 @@
 <style scoped>
 
 .slot-board {
-  border: 10px solid saddlebrown;
+  border: 10px solid sandybrown;
   margin: 16px auto;
   width: fit-content;
 }

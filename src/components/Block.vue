@@ -43,6 +43,7 @@
 </script>
 
 <style scoped>
+
   .block {
     font-size: 28px;
     width: 42px;
@@ -55,4 +56,12 @@
     display: inline-block;
   }
 
+  .level-block {
+    position: absolute;
+  }
+
+  .disabled {
+    background: grey;
+    cursor: not-allowed;
+  }
 </style>
